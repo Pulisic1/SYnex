@@ -1,6 +1,6 @@
 # SYnex OS – High-Security Linux Distribution
 
-**Created by**: Sivakumar Sivanujan  
+**Founder & Main-Developer**: Sivakumar Sivanujan  
 **Co-Founder**: Yathursikka Rajenthiram  
 **Designer**: Anantharajah Thushyanthan  
 **Tester & Marketing**: Piraveena Krishnakumar  
